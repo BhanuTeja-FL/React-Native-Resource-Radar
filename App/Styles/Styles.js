@@ -20,6 +20,7 @@ export const LoginScreenStyles = StyleSheet.create({
     marginTop: "25%",
     fontSize: 30,
     color: "#ee7724",
+    fontFamily: "Poppins",
   },
   loginInfo: {
     marginTop: "20%",

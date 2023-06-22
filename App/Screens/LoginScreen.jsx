@@ -10,10 +10,6 @@ const LoginScreen = ({ navigation }) => {
   return (
     <SafeAreaView style={LoginScreenStyles.container}>
       <View style={LoginScreenStyles.loginDivsion}>
-        {/* <CustomFont
-          TextContent={"ResourceRadar"}
-          styles={LoginScreenStyles.appHeader}
-        /> */}
         <Text style={LoginScreenStyles.appHeader}>Resouce Radar</Text>
         <Text style={LoginScreenStyles.loginInfo}>
           Please login to your account
